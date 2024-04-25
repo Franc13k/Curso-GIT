@@ -1,6 +1,5 @@
 # Curso-GIT
 Desenvolvi minhas habilidades com GIT e GitHub
-Deixarei anotações e aprendizados abaixo
 
 # FUNÇÕES
 
