@@ -1,4 +1,6 @@
 Insira seu e-mail:
 Insira sua senha: 
 
+Confirme que você não é um robô:
+
 	>> Entrar <<
