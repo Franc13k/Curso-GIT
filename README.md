@@ -3,16 +3,13 @@ Desenvolvi minhas habilidades com GIT e GitHub
 
 # FUNÇÕES
 
-  git init           
-    - Inicializa um novo repositório
+  git init           - Inicializa um novo repositório
 
 
-  git add .      
-    - Adiciona os arquivos atuais ao próximo commit
+  git add .      - Adiciona os arquivos atuais ao próximo commit
 
 
-  git status         
-    - Verifica o status atual do repositório git
+  git status         - Verifica o status atual do repositório git
 
     
   git commit -m "mensagem do commit"
